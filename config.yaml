@@ -52,7 +52,7 @@ Menus:
 
 params:
   title: "Weishan He"
-  description: This is my personal website.
+  description: This is my personal website haha.
   # staticPath: ""  # The path to serve the static files from
   favicon: "/cup_fav.png"
 
