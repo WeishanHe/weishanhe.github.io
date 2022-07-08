@@ -102,7 +102,7 @@ params:
     enable: true
     intro: "Hi, I am"
     title: "Weishan."
-    subtitle: "I generate data insights to help business"
+    subtitle: "I generate data insights to help business grow."
     content: "
     I am a data enthusiast with two-year working experience in quantitative marketing research, and specialties in A/B Testing, Supervised and Unsupervised Machine Learning, Data Management, and Data Visualization.
     <br> 
@@ -319,7 +319,7 @@ params:
             url: https://github.com/WeishanHe/Web-Scraping
 
       - title: New Feature Performance Evaluation using DiD and CLV
-        content: Use diff-in-diff and logistic regression to evaluate the effectiveness of a new feature - online gaiming community - by measuring the change in user revenue and retention.
+        content: Use diff-in-diff and logistic regression to evaluate the effectiveness of a new feature - online gaiming community - by measuring the change in user revenue and retention
         image: /images/projects/gaming_did_clv.jpg
         featured:
           name: Demo
