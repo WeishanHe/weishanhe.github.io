@@ -309,14 +309,14 @@ params:
         image: /images/projects/hotel_webscraping.jpg
         featured:
           name: Demo
-          link: https://github.com/WeishanHe/Web-Scraping
+          link: https://github.com/WeishanHe/Web-Scraping/tree/master/1.%20Build%20Hotel%20Database%20Using%20Web%20Scrapping%20(in%20Python)
         badges:
           - "Web Scrapping"
           - "ETL"
           - "MongoDB"
         links:
           - icon: fab fa-github
-            url: https://github.com/WeishanHe/Web-Scraping
+            url: https://github.com/WeishanHe/Web-Scraping/tree/master/1.%20Build%20Hotel%20Database%20Using%20Web%20Scrapping%20(in%20Python)
 
       - title: New Feature Performance Evaluation using DiD and CLV
         content: Use diff-in-diff and logistic regression to evaluate the effectiveness of a new feature - online gaiming community - by measuring the change in user revenue and retention
