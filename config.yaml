@@ -305,7 +305,7 @@ params:
             url: https://github.com/WeishanHe/Data-Science-Projects/tree/main/6.%20Diabetes%20Detection%20Using%20LR%26SVM%26RF%20(in%20Python)
 
       - title: Build Hotel Database Using Web Scrapping
-        content: Use Selenium and BeautifulSoup to scrap hotel information from booking.com and convert the data into MongoDB collection to save them in a JSON file
+        content: Leverage Selenium and BeautifulSoup to scrap hotel information from booking.com and convert the data into MongoDB collection to save them in a JSON file
         image: /images/projects/hotel_webscraping.jpg
         featured:
           name: Demo
@@ -333,7 +333,7 @@ params:
             url: https://github.com/WeishanHe/Data-Science-Projects/tree/main/1.%20New%20Feature%20Performance%20Evaluation%20using%20DID%20and%20CLV%20(in%20R)
 
       - title: New TV Design Using Conjoint Analysis
-        content: Use conjoint analysis to generate a TV Design that will lead to the optimal market share
+        content: Deploy conjoint analysis to generate a TV Design that will lead to the optimal market share
         image: /images/projects/TV_conjoint_analysis.jpg
         featured:
           name: Demo
@@ -346,7 +346,7 @@ params:
             url: https://github.com/WeishanHe/Data-Science-Projects/tree/main/2.%20New%20TV%20Design%20Using%20Conjoint%20Analysis%20(in%20R)
 
       - title: Replicated Superstore Sales Performance Dashboard
-        content: Applied Data Bootstrap and Residual Bootstrap to obtain the 95% confidence levels and median for willingness to pay
+        content: Construct an interactive dashboard in Tableau to track sales performance for a supermarket
         image: /images/projects/supermarket_dashboard.jpg
         featured:
           name: Demo
@@ -357,7 +357,7 @@ params:
           - "Dashboard"
 
       - title: Use Bootstrap to Obtain Confidence Levels for Willingness to Pay
-        content: Applied Data Bootstrap and Residual Bootstrap to obtain the 95% confidence levels and median for willingness to pay
+        content: Apply Data Bootstrap and Residual Bootstrap to obtain the 95% confidence levels and median for willingness to pay
         image: /images/projects/bootstrap_wtp.jpg
         featured:
           name: Demo
