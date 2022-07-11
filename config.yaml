@@ -345,6 +345,17 @@ params:
           - icon: fab fa-github
             url: https://github.com/WeishanHe/Data-Science-Projects/tree/main/2.%20New%20TV%20Design%20Using%20Conjoint%20Analysis%20(in%20R)
 
+      - title: Replicated Superstore Sales Performance Dashboard
+        content: Applied Data Bootstrap and Residual Bootstrap to obtain the 95% confidence levels and median for willingness to pay
+        image: /images/projects/supermarket_dashboard.jpg
+        featured:
+          name: Demo
+          link: https://public.tableau.com/app/profile/weishan.he/viz/ReplicatedSupermarketSalesDashboard/Dashboard2
+        badges:
+          - "Data Visualization"
+          - "Tableau"
+          - "Dashboard"
+
       - title: Use Bootstrap to Obtain Confidence Levels for Willingness to Pay
         content: Applied Data Bootstrap and Residual Bootstrap to obtain the 95% confidence levels and median for willingness to pay
         image: /images/projects/bootstrap_wtp.jpg
