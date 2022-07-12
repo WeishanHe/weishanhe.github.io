@@ -345,7 +345,7 @@ params:
           - icon: fab fa-github
             url: https://github.com/WeishanHe/Data-Science-Projects/tree/main/2.%20New%20TV%20Design%20Using%20Conjoint%20Analysis%20(in%20R)
 
-      - title: Replicated Superstore Sales Performance Dashboard
+      - title: Superstore Sales Performance Dashboard
         content: Construct an interactive dashboard in Tableau to track sales performance for a supermarket
         image: /images/projects/supermarket_dashboard.jpg
         featured:
