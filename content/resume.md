@@ -5,11 +5,15 @@ socialShare: true
 
 # **Weishan He**
 ### *PROFILE*
-A data enthusiast with two-year experience in quantitative marketing research, and specialties in A/B Testing, Supervised and Unsupervised Machine Learning, Data Management, and Data Visualization 
+A machine learning practitioner with experience developing machine-learning-based products and directing experiments.
 
 **Skills**: 
-- SQL 
-- Python (Numpy, Pandas, Statsmodels, Scikit-learn, Seaborn, Matplotlib, etc.)
+- Python (PyTorch, Numpy, Pandas, Statsmodels, Scikit-learn, Seaborn, Matplotlib, etc.)
+- SQL
+- Docker
+- FastAPI
+- Git
+- Poetry
 - R 
 - Tableau ([Tableau Desktop Specialist Certificate](https://www.credly.com/badges/646c3f65-3bce-4e43-9c11-f44a33854d93?source=linked_in_profile)) 
 - Looker 
@@ -39,6 +43,12 @@ Highlighted Coursework: Calculus, Linear Algebra, Statistics, Econometrics, Inte
 <br>
 
 ### *PROFESSIONAL EXPERIENCE*
+**Data Scientist**<br>
+<span style="color:gray">
+Andela @ USA -- Aug. 2021 to Now
+</span> 
+Developing machine-learning-based product features and conducting experiments on user interfaces and background algorithms
+
 **Senior Business Analyst**<br>
 <span style="color:gray">
 Mininglamp Technology Co., Ltd @ China -- Aug. 2020 to Jan. 2021
