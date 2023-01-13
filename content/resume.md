@@ -45,8 +45,8 @@ Highlighted Coursework: Calculus, Linear Algebra, Statistics, Econometrics, Inte
 ### *PROFESSIONAL EXPERIENCE*
 **Data Scientist**<br>
 <span style="color:gray">
-Andela @ USA -- Aug. 2021 to Now
-</span> 
+Andela @ USA -- Aug. 2021 till Now
+</span><br>
 Developing machine-learning-based product features and conducting experiments on user interfaces and background algorithms
 
 **Senior Business Analyst**<br>
