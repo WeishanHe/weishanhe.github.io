@@ -5,11 +5,12 @@ socialShare: true
 
 # **Weishan He**
 ### *PROFILE*
-A machine learning practitioner with experience developing machine-learning-based products and directing experiments.
+A data scientist with expertise in building Machine-Learning-based products to facilitate business growth, A/B Testing, Data Management, and Data Visualization
 
 **Skills**: 
 - Python (PyTorch, Numpy, Pandas, Statsmodels, Scikit-learn, Seaborn, Matplotlib, etc.)
 - SQL
+- Google Cloud Platform (GCP)
 - Docker
 - FastAPI
 - Git
@@ -17,10 +18,43 @@ A machine learning practitioner with experience developing machine-learning-base
 - R 
 - Tableau ([Tableau Desktop Specialist Certificate](https://www.credly.com/badges/646c3f65-3bce-4e43-9c11-f44a33854d93?source=linked_in_profile)) 
 - Looker 
-- MongoDB 
 - Spark
 
 <!-- **Awards**: The third price and Best Storytelling winner at Aggie Hacks x Google Cloud Hackathon (article)  -->
+
+<br>
+
+### *PROFESSIONAL EXPERIENCE*
+**Data Scientist**<br>
+<span style="color:gray">
+Andela @ USA -- Aug. 2021 till Now
+</span><br>
+- Developed a recommendation model with 54 features utilizing machine learning techniques (**LightGBM**, **Word2Vec**, etc.) and **Python**; the model was deployed and led to the automation of 80% of hiring events
+- Implemented a data pipeline for querying, validating, converting, and calculating features in batch for 10,000+ entries, which substantially shortened the preprocessing time
+- Refactored the training pipeline to support the training of different models (**SVM**, **XGBoost**, etc.), feature selection using **BorutaSHAP**, calibration, and incremental model improvements based on new data
+- Utilized **Poetry** to create and manage a mono-repo, which included common packages (**SQL queries**, **data transformations**, etc.) to reduce duplicate code across multiple projects
+- Led Andela’s experimentation efforts by designing and analyzing **A/B tests** using Frequentist and Bayesian approaches, resulting in the successful launch of three new features
+- Automated the analysis of model performance in production, enabling rapid and systematic feedback
+
+**Senior Business Analyst**<br>
+<span style="color:gray">
+Mininglamp Technology Co., Ltd @ China -- Aug. 2020 to Jan. 2021
+</span> 
+- Conducted sentimental and LDA analysis on unstructured social media data to support the findings concluded from the e-commerce data, successfully persuading the clients to extend the purchase of social media analysis
+- Coordinated with a third-party data provider to validate the data quality and generate two quarterly
+eCommerce performance reports for the client
+
+**Quantitative Research Executive** <br>
+<span style="color:gray">
+Ipsos (China) Consulting Co., Ltd @ China -- Jan. 2018 to Sep. 2019
+</span> 
+- Partnered with the manager to lead the cross-functional team of six to complete 16 marketing research projects,contributing to 20% annual revenue of the team
+- Embedded the industrial cutting-edge eye-tracking technique into the traditional marketing research process to
+generate additional customer insights, winning clients’ recognition and repetitive orders
+- Self-taught the signature market segmentation model of the firm and implemented the model to enhance the
+pitch book about Usage and Attitude study, winning the bid worthy of $80,000
+- Analyzed market research data of online shopping scenarios to explore growth opportunities, identifying five
+high potential scenarios to increase online purchase frequency
 
 <br>
 
@@ -39,36 +73,6 @@ Shangdong University @ China --
 2014 to 2018
 </span> <br>
 Highlighted Coursework: Calculus, Linear Algebra, Statistics, Econometrics, Intermediate Macro&Microeconomics
-
-<br>
-
-### *PROFESSIONAL EXPERIENCE*
-**Data Scientist**<br>
-<span style="color:gray">
-Andela @ USA -- Aug. 2021 till Now
-</span><br>
-Developing machine-learning-based product features and conducting experiments on user interfaces and background algorithms
-
-**Senior Business Analyst**<br>
-<span style="color:gray">
-Mininglamp Technology Co., Ltd @ China -- Aug. 2020 to Jan. 2021
-</span> 
-- Analyzed unstructured data from social media to support the findings concluded from the e-commerce data,
-successfully persuading the clients to extend the purchase of social media analysis
-- Coordinated with a third-party data provider to validate the data quality and generate two quarterly
-eCommerce performance reports for the client
-
-**Quantitative Research Executive** <br>
-<span style="color:gray">
-Ipsos (China) Consulting Co., Ltd @ China -- Jan. 2018 to Sep. 2019
-</span> 
-- Partnered with the manager to lead the cross-functional team of six to complete 16 marketing research projects,contributing to 20% annual revenue of the team
-- Embedded the industrial cutting-edge eye-tracking technique into the traditional marketing research process to
-generate additional customer insights, winning clients’ recognition and repetitive orders
-- Self-taught the signature market segmentation model of the firm and implemented the model to enhance the
-pitch book about Usage and Attitude study, winning the bid worthy of $80,000
-- Analyzed market research data of online shopping scenarios to explore growth opportunities, identifying five
-high potential scenarios to increase online purchase frequency
 
 <br>
 
