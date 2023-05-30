@@ -37,7 +37,7 @@ In the context of A/B testing, our metrics of interest often fall into two categ
 |Data Types| Conjugate Priors | Updating Function|
 |:---------|:-----------------|:-----------------|
 |Binary - binomial distribution|Beta distribution|\\(\alpha + \sum_{i=1}^{n}x_i \\), \\(\beta + \sum_{i=1}^{n}N_i - \sum_{i=1}^{n}x_i\\)|
-|Continuous - normal distribution (CLT)|Normal distribution assuming known variance|\\( m'' = \frac{\sigma^2 m' + n(\sigma')^{2}m}{n(\sigma')^{2} + \sigma^2} \\), \\((\sigma'')^2 = \frac{\sigma^2(\sigma')^2}{n(\sigma')^2 + \sigma^2} \\), \\( m''\\) and \\((\sigma'')^2 \\) are the posterior mean and variance, \\(m'\\) is the prior mean, \\(m\\) is the sample mean, \\(n\\) is the sample size |
+|Continuous - normal distribution (CLT)|Normal distribution assuming known variance|\\( m_2 = \frac{\sigma^2 m_1 + n\sigma_1^{2}m}{n\sigma_1^{2} + \sigma^2} \\), \\(\sigma_2^2 = \frac{\sigma^2\sigma_1^2}{n\sigma_1^2 + \sigma^2} \\), \\( m_2\\) and \\(\sigma_2^2 \\) are the posterior mean and variance, \\(m_1\\) is the prior mean, \\(m\\) is the sample mean, \\(n\\) is the sample size |
 
 ## Step 4: Apply Monte Carlo simulation to obtain key statistics
 Once we obtain the posterior distribution, we can proceed to calculate essential statistics that help inform recommendations based on the results of Bayesian A/B testing. These statistics include the posterior mean, credible interval, and probability of being the best.
