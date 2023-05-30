@@ -1,5 +1,0 @@
----
-showDate: false
----
-
-Coming soon...

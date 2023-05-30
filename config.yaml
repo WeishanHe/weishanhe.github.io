@@ -20,10 +20,10 @@ Menus:
     #   url: /projects
     #   weight: 1
     
-    - identifier: notes
-      name: Notes
-      title: Notes
-      url: /notes
+    - identifier: blog
+      name: Blog
+      title: Blog posts
+      url: /blogs
       weight: 1
 
     - identifier: resume
