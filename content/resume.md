@@ -4,21 +4,10 @@ socialShare: true
 ---
 
 # **Weishan He**
-### *PROFILE*
-A data scientist with expertise in building Machine-Learning-based products to facilitate business growth, A/B Testing, Data Management, and Data Visualization
-
-**Skills**: 
-- Python (PyTorch, Numpy, Pandas, Statsmodels, Scikit-learn, Seaborn, Matplotlib, etc.)
-- SQL
-- Google Cloud Platform (GCP)
-- Docker
-- FastAPI
-- Git
-- Poetry
-- R 
-- Tableau ([Tableau Desktop Specialist Certificate](https://www.credly.com/badges/646c3f65-3bce-4e43-9c11-f44a33854d93?source=linked_in_profile)) 
-- Looker 
-- Spark
+### *Technical Skills*
+- **Computer Languages**: Python (PyTorch, Pandas, Scikit-learn, Seaborn, etc.), SQL, R, Shell Script
+- **Tools**: [Tableau](https://www.credly.com/badges/646c3f65-3bce-4e43-9c11-f44a33854d93?source=linked_in_profile), Looker, Git, Poetry, Docker, Google Cloud Platform, AWS, Hadoop/PySpark, FastAPI
+- **Skills**: Causal Inference, Machine Learning, Deep Learning, Data ETL, Data Visualization
 
 <!-- **Awards**: The third price and Best Storytelling winner at Aggie Hacks x Google Cloud Hackathon (article)  -->
 
@@ -27,34 +16,41 @@ A data scientist with expertise in building Machine-Learning-based products to f
 ### *PROFESSIONAL EXPERIENCE*
 **Data Scientist**<br>
 <span style="color:gray">
-Andela @ USA -- Aug. 2021 till Now
+Andela @ USA -- Aug. 2022 to Apr. 2023
 </span><br>
-- Developed a recommendation model with 54 features utilizing machine learning techniques (**LightGBM**, **Word2Vec**, etc.) and **Python**; the model was deployed and led to the automation of 80% of hiring events
-- Implemented a data pipeline for querying, validating, converting, and calculating features in batch for 10,000+ entries, which substantially shortened the preprocessing time
-- Refactored the training pipeline to support the training of different models (**SVM**, **XGBoost**, etc.), feature selection using **BorutaSHAP**, calibration, and incremental model improvements based on new data
-- Utilized **Poetry** to create and manage a mono-repo, which included common packages (**SQL queries**, **data transformations**, etc.) to reduce duplicate code across multiple projects
-- Led Andela’s experimentation efforts by designing and analyzing **A/B tests** using Frequentist and Bayesian approaches, resulting in the successful launch of three new features
-- Automated the analysis of model performance in production, enabling rapid and systematic feedback
+- Spearheaded experimentation, utilizing Frequentist and Bayesian approaches to design and analyze impactful A/B testing, achieving a 30% increase in the sign-up rate
+- Pioneered a recommendation engine using tree-based machine learning models and NLP to automate 30% of
+hiring events, reducing time-to-hire by 20%
+- Engineered data pipeline using Python and SQL to query, validate, convert, and calculate features in batch,
+reducing preprocessing time by 40%
+- Revamped training pipeline for diverse models, feature selection, calibration, and continuous updates, cutting
+training time by 50%
+- Leveraged Poetry and Git to establish and maintain mono-repo with self-developed packages, mitigating code
+duplication by 40% across multiple projects
+- Implemented a Docker container, API, and Git Tag to seamlessly deliver the model to the engineering team
+- Created Looker dashboards to monitor key metrics of recommendation engine, demonstrating parity with human
+recruiters in converting talent profile views to scheduling interview
+
+**Data Analyst (Practicum)**<br>
+<span style="color:gray">
+UC Davis Health Pharmacy @ USA -- Aug. 2021 to Jun. 2022
+</span><br>
+- Developed Tableau dashboards for pharmacists to optimize inventory management, resulting in $50,000 quarterly cost savings and 10% reduction in excess inventory
 
 **Senior Business Analyst**<br>
 <span style="color:gray">
 Mininglamp Technology Co., Ltd @ China -- Aug. 2020 to Jan. 2021
 </span> 
-- Conducted sentimental and LDA analysis on unstructured social media data to support the findings concluded from the e-commerce data, successfully persuading the clients to extend the purchase of social media analysis
-- Coordinated with a third-party data provider to validate the data quality and generate two quarterly
-eCommerce performance reports for the client
+- Conducted sentiment and topic analysis on unstructured social media data, boosting sentiment score by 10% and convincing clients to extend the purchase of social media analysis
 
 **Quantitative Research Executive** <br>
 <span style="color:gray">
 Ipsos (China) Consulting Co., Ltd @ China -- Jan. 2018 to Sep. 2019
 </span> 
-- Partnered with the manager to lead the cross-functional team of six to complete 16 marketing research projects,contributing to 20% annual revenue of the team
-- Embedded the industrial cutting-edge eye-tracking technique into the traditional marketing research process to
-generate additional customer insights, winning clients’ recognition and repetitive orders
-- Self-taught the signature market segmentation model of the firm and implemented the model to enhance the
-pitch book about Usage and Attitude study, winning the bid worthy of $80,000
-- Analyzed market research data of online shopping scenarios to explore growth opportunities, identifying five
-high potential scenarios to increase online purchase frequency
+- Collaborated with the manager to lead cross-functional team of six, completing 16 marketing research projects and generating 20% annual team revenue
+- Analyzed online shopping market research data in Excel, identifying five high-potential growth scenarios for a projected 15% revenue increase
+- Mastered the firm’s market segmentation model and enhanced the Usage and Attitude study pitch book,
+winning a $80,000 bid
 
 <br>
 
@@ -65,7 +61,7 @@ high potential scenarios to increase online purchase frequency
 University of California, Davis @ USA --
 2021 to 2022
 </span> <br>
-Highlighted Coursework: Data Management, Advanced Statistics, Machine Learning, Big Data, Data Visualization <br>
+Highlighted Coursework: Machine Learning, Time Series Analysis, Optimization, Big Data, Cloud Computing <br>
 
 **Bachelor of Economics, International Economics and Trade** <br>
 <span style="color:gray">
@@ -76,21 +72,9 @@ Highlighted Coursework: Calculus, Linear Algebra, Statistics, Econometrics, Inte
 
 <br>
 
-### *PRACTICUM EXPERIENCE*
-**Practicum: UC Davis Health Pharmacy Analytics Project**
-<br>
-<span style="color:gray">
-Data Scientist, Project Manager, Practicum -- Sep. 2021 to Jun. 2022
-</span> <br>
-As part of the MSBA, providing transparency into the pharmacy’s $200M annual inventory to help staff allocate resources
-- Developed two interactive dashboards of drug purchasing and utilization using Tableau and SQL Server to help pharmacists track inventory status and identify potential expenditure optimization opportunities
-- Collaborated with the cross-unit client team to understand business demands, and establish a high-functioning working relationship that enables expansion of the analytical scope of work
-
-<br>
-
 ### *DATA SCIENCE PROJECT*
+- **Stock Prediction with LSTM**: built a LSTM model to predict stock price using PyTorch
 - **Hotel Booking Database**: Use Selenium and BeautifulSoup to scrap hotel information from booking.com and store data in JSON file, laying the foundation for modeling
-- **Diabetes Prediction**: developed Logistic Regression, SVM, and Random Forest models and leveraged GridSearchCV to tune hyperparameters, predicting the existence of diabetes with 79% recalls 
 - **Customer Churn Prediction & CLV**: leveraged diff-in-diff to measure the short-term effect of a new feature, and used logistic regression to predict churn and calculate CLV to estimate the long-term effect
 - [More Projects](/#projects)
 
