@@ -102,17 +102,28 @@ params:
     enable: true
     intro: "Hi, I am"
     title: "Weishan."
-    # subtitle: "I am a results-oriented data scientist "
+    subtitle: "I am seeking job opportunities in the data world!"
     content: "
-    I am a machine learning practitioner with experience developing machine-learning-based products and directing experiments.
+    I am a results-oriented data scientist with a proven track record of leveraging Machine Learning techniques 
+    to build impactful products and drive data-driven analyses. Proficient in A/B Testing, Data Management, 
+    and Data Visualization. Skilled in Python (PyTorch, NumPy, Pandas, Statsmodels, Scikit-learn, Seaborn, 
+    Matplotlib, etc.), SQL, Tableau, Looker, PowerBI, R, Git, Poetry, Docker, Google Cloud Platform, AWS, 
+    Hadoop/PySpark, and Web Scraping.
     <br> 
     <br>
-    During the development and deployment of machine learning models, I used a variety of tools, including Python, SQL, Google Cloud Platform, Docker, Poetry, etc. 
-    Currently, I am working at Andela as a Data Scientist to assist in the development of machine-learning features that will enable sustained growth in a dynamic marketplace.
-    Please see *Projects* below for more interesting projects I conducted.
+    In my recent role as a Data Scientist at Andela, I successfully developed and deployed a recommendation 
+    system using tree-based models and NLP. This system effectively matches talents with suitable job 
+    opportunities. Additionally, I led experimentation efforts, conducting A/B testing on user flow and 
+    machine learning algorithms. Prior to Andela, I held positions as a quantitative research analyst and 
+    senior business analyst at two marketing agencies. In these roles, I utilized statistical analysis on 
+    structured and unstructured data to help client companies gain valuable insights into customer behavior 
+    and measure marketing efficiency.
     <br>
     <br>
-    The challenging process of transforming large amounts of raw data into intelligent tools makes me very excited. As part of my leisure time, I continue to develop my skill sets in order to achieve this goal.
+    I am continuously committed to enhance my data science skill set. In my spare time, 
+    I avidly read articles and books, and engage in projects that further develop my expertise. 
+    Currently, I am focused on expanding my knowledge in NLP and MLOps. Check out my *Projects* and *Blogs*
+    for more cool stuff!
     "
     
     
