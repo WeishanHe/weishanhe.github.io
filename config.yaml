@@ -102,7 +102,7 @@ params:
     enable: true
     intro: "Hi, I am"
     title: "Weishan."
-    subtitle: "I develop machine-learning features to help business grow."
+    # subtitle: "I am a results-oriented data scientist "
     content: "
     I am a machine learning practitioner with experience developing machine-learning-based products and directing experiments.
     <br> 
@@ -289,17 +289,16 @@ params:
   projects:
     enable: true
     items:
-      - title: Diabetes Detection Using Supervised Machine Learning
-        content: Apply logistic regression, support vector machine, and random forest to detect diabetes activities and used grid search to tune hyperparameters
-        image: /images/projects/diabetes detection.jpg
+      - title: Stock Price Prediction with LSTM
+        content: Applied LSTM on time-series data to predict future stock price
+        image: /images/projects/stock_price_prediction_lstm.jpg
         featured:
           name: Demo
-          link: https://github.com/WeishanHe/Data-Science-Projects/tree/main/6.%20Diabetes%20Detection%20Using%20LR%26SVM%26RF%20(in%20Python)
+          link: https://github.com/ruihao-li/machine-learning-compilation/tree/main/LSTM
         badges:
-          - "SVM"
-          - "Logistic Regression"
-          - "Random Forest"
-          - "Python"
+          - "LSTM"
+          - "Time-Series"
+          - "PyTorch"
         links:
           - icon: fab fa-github
             url: https://github.com/WeishanHe/Data-Science-Projects/tree/main/6.%20Diabetes%20Detection%20Using%20LR%26SVM%26RF%20(in%20Python)
