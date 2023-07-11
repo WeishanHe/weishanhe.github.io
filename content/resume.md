@@ -4,7 +4,7 @@ socialShare: true
 ---
 
 # **Weishan He**
-### *Technical Skills*
+### *TECHNICAL SKILLS*
 - **Computer Languages**: Python (PyTorch, Pandas, Scikit-learn, Seaborn, etc.), SQL, R, Shell Script
 - **Tools**: [Tableau](https://www.credly.com/badges/646c3f65-3bce-4e43-9c11-f44a33854d93?source=linked_in_profile), Looker, Git, Poetry, Docker, Google Cloud Platform, AWS, Hadoop/PySpark, FastAPI
 - **Skills**: Causal Inference, Machine Learning, Deep Learning, Data ETL, Data Visualization
